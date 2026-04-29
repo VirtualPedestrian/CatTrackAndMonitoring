@@ -1,6 +1,6 @@
-# cattletrackingmonitor
+# CatTrackandMonitoring
 
-A monitoring dashboard for CattleTrackingSystem
+A monitoring dashboard for CatTrackandMonitoring
 
 ## Getting Started
 
