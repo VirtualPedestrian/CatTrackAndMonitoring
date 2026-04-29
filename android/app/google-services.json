@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "157609091979",
+    "firebase_url": "https://aimansiot-fd460-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aimansiot-fd460",
+    "storage_bucket": "aimansiot-fd460.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157609091979:android:974ee693cfac1b3058058e",
+        "android_client_info": {
+          "package_name": "com.example.cattletrackingmonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLc932wxEyiGzGQjjfkOY7CTCC0cziFwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
